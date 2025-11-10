@@ -1,0 +1,25 @@
+Jack Coker
+November 9, 2025
+CSCE 4255.001
+
+OBJECTIVE:
+- Stack the boxes as high as possible without letting any fall
+- Press 'Space' to drop a box
+- If a box falls into the void, you lose, deleting all active boxes
+- Impulse from the dropper can be adjusted using (I/O)
+
+BULLET PHYSICS DEMONSTRATIONS:
+- Gravity
+- Impulse
+- Collision between boxes
+- Static objects
+
+CONTROLS:
+- (SPACE) Drop Box from the dropper
+- (I/O) Increase/Decrease impulse from the dropper
+
+- (WASD) Camera Movement
+- (Direction Keys) Rotate Camera
+- (Q) Move Camera Up
+- (E) Move Camera Down
+- (R) Reset Camera Position
